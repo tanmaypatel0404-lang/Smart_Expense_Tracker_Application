@@ -1,0 +1,124 @@
+Date,Amount,Category,Description
+2025-01-02,1588.95,Healthcare,Doctor Visit
+2025-01-06,1325.23,Healthcare,Health Checkup
+2025-01-08,836.68,Food,Groceries
+2025-01-20,553.05,Food,Breakfast
+2025-01-23,326.86,Food,Groceries
+2025-01-28,1210.87,Healthcare,Health Checkup
+2025-02-05,608.69,Food,Breakfast
+2025-02-06,774.97,Shopping,Stationery
+2025-02-06,1934.14,Shopping,Stationery
+2025-02-07,434.13,Food,Snacks
+2025-02-10,609.21,Transport,Metro Ticket
+2025-02-10,936.08,Shopping,Stationery
+2025-02-11,66.59,Transport,Bus Fare
+2025-02-13,926.18,Healthcare,Medicine
+2025-02-17,820.08,Healthcare,Doctor Visit
+2025-02-18,606.73,Food,Breakfast
+2025-02-20,600.84,Food,Snacks
+2025-02-20,386.25,Food,Breakfast
+2025-02-21,502.37,Food,Snacks
+2025-02-22,366.74,Food,Breakfast
+2025-02-25,150.28,Transport,Metro Ticket
+2025-02-26,446.66,Transport,Metro Ticket
+2025-02-27,1041.27,Utilities,Mobile Recharge
+2025-02-27,852.74,Food,Groceries
+2025-03-01,1359.31,Entertainment,Movie Ticket
+2025-03-12,1521.07,Shopping,Clothes
+2025-03-13,356.88,Entertainment,Music Subscription
+2025-03-21,727.6,Utilities,Electricity Bill
+2025-03-21,670.9,Transport,Fuel
+2025-03-23,818.44,Healthcare,Doctor Visit
+2025-03-23,283.76,Healthcare,Medicine
+2025-03-25,619.36,Transport,Bus Fare
+2025-03-25,878.3,Utilities,Internet Bill
+2025-03-27,779.9,Entertainment,Movie Ticket
+2025-04-02,1671.63,Healthcare,Doctor Visit
+2025-04-08,596.29,Utilities,Electricity Bill
+2025-04-13,629.92,Healthcare,Health Checkup
+2025-04-19,2285.37,Shopping,Stationery
+2025-04-22,363.64,Transport,Bus Fare
+2025-04-23,924.97,Entertainment,Movie Ticket
+2025-04-25,607.63,Food,Dinner
+2025-04-28,818.66,Food,Breakfast
+2025-05-05,1230.5,Entertainment,Movie Ticket
+2025-05-06,114.89,Transport,Bus Fare
+2025-05-06,334.34,Transport,Fuel
+2025-05-06,734.22,Utilities,Mobile Recharge
+2025-05-08,421.09,Food,Snacks
+2025-05-11,649.56,Food,Lunch
+2025-05-14,414.8,Transport,Fuel
+2025-05-16,654.62,Transport,Bus Fare
+2025-05-16,805.15,Food,Snacks
+2025-05-17,1692.31,Healthcare,Health Checkup
+2025-05-23,989.96,Entertainment,Music Subscription
+2025-05-27,1075.23,Entertainment,Game Purchase
+2025-06-03,276.1,Healthcare,Medicine
+2025-06-07,59.39,Transport,Bus Fare
+2025-06-07,1992.91,Utilities,Electricity Bill
+2025-06-10,83.12,Food,Dinner
+2025-06-10,948.69,Entertainment,Game Purchase
+2025-06-10,200.62,Transport,Auto Ride
+2025-06-11,474.84,Entertainment,Movie Ticket
+2025-06-11,568.73,Utilities,Internet Bill
+2025-06-15,127.27,Entertainment,Music Subscription
+2025-06-16,236.98,Food,Lunch
+2025-06-18,1921.92,Utilities,Mobile Recharge
+2025-06-23,545.95,Food,Groceries
+2025-06-25,487.5,Transport,Fuel
+2025-06-26,852.4,Shopping,Clothes
+2025-06-29,1832.1,Utilities,Electricity Bill
+2025-06-29,965.99,Healthcare,Health Checkup
+2025-07-01,2661.67,Shopping,Household Items
+2025-07-03,483.81,Transport,Bus Fare
+2025-07-19,2049.36,Utilities,Mobile Recharge
+2025-07-25,181.59,Food,Lunch
+2025-08-03,1092.24,Healthcare,Health Checkup
+2025-08-05,753.83,Entertainment,Game Purchase
+2025-08-08,1246.25,Shopping,Clothes
+2025-08-20,253.2,Food,Lunch
+2025-08-23,200.12,Transport,Auto Ride
+2025-08-24,444.49,Shopping,Household Items
+2025-08-28,814.13,Shopping,Stationery
+2025-08-29,155.71,Transport,Metro Ticket
+2025-09-06,386.68,Transport,Metro Ticket
+2025-09-13,1338.56,Entertainment,Game Purchase
+2025-09-14,365.22,Transport,Bus Fare
+2025-09-15,539.7,Shopping,Stationery
+2025-09-16,451.57,Entertainment,Movie Ticket
+2025-09-24,2085.62,Shopping,Stationery
+2025-09-28,614.36,Food,Snacks
+2025-09-30,107.31,Transport,Metro Ticket
+2025-10-02,1725.63,Utilities,Mobile Recharge
+2025-10-02,2075.44,Utilities,Electricity Bill
+2025-10-04,2762.0,Shopping,Stationery
+2025-10-06,614.28,Healthcare,Health Checkup
+2025-10-07,757.75,Food,Snacks
+2025-10-09,200.24,Transport,Metro Ticket
+2025-10-10,827.07,Healthcare,Medicine
+2025-10-10,312.25,Transport,Bus Fare
+2025-10-12,1321.29,Healthcare,Medicine
+2025-10-15,847.21,Shopping,Stationery
+2025-10-15,506.89,Transport,Metro Ticket
+2025-10-18,634.95,Healthcare,Health Checkup
+2025-10-24,196.05,Shopping,Clothes
+2025-10-24,1021.73,Healthcare,Health Checkup
+2025-10-29,24.89,Transport,Bus Fare
+2025-10-30,144.5,Entertainment,Movie Ticket
+2025-11-02,370.9,Food,Snacks
+2025-11-08,123.93,Transport,Auto Ride
+2025-11-13,1333.57,Utilities,Internet Bill
+2025-11-14,362.74,Healthcare,Medicine
+2025-11-17,1875.42,Utilities,Internet Bill
+2025-11-23,481.24,Utilities,Mobile Recharge
+2025-11-24,61.51,Food,Breakfast
+2025-11-24,1046.81,Healthcare,Health Checkup
+2025-11-29,1048.11,Utilities,Internet Bill
+2025-12-09,1478.27,Healthcare,Doctor Visit
+2025-12-10,610.0,Healthcare,Doctor Visit
+2025-12-10,267.67,Transport,Bus Fare
+2025-12-12,294.57,Transport,Auto Ride
+2025-12-13,1616.71,Healthcare,Medicine
+2026-10-23,250.0,Food,Breakfast
+2026-10-20,250.0,Food,Evening snacks
+2026-10-24,265.0,Food,Snacks
